@@ -4,7 +4,7 @@ This HTML coded file is used demonstrate a basic understanding of HTML coding an
 
 ## Getting Started
 
-Download the repository using you preferred method:
+Download the repository using your preferred method:
 
 ```
 Option #1 (SSH): git@github.com:paichunwang/Basic-Protfolio.git
@@ -14,7 +14,7 @@ Option #3 (ZIP): https://github.com/paichunwang/Basic-Protfolio/archive/master.z
 
 ## Prerequisites
 
-A basis browser such as Chrome, Firefox, Safari, etc...
+A basic browser such as Chrome, Firefox, Safari, etc...
 
 ### Installing
 
